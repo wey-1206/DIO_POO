@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;exercicios_herança_DIO_POO&apos; to &apos;exercicios_heranca_DIO_POO&apos;&#x0A;- Original element: &apos;exercicios_herança_DIO_POO&apos;&#x0A;- Renamed element: &apos;exercicios_herança_DIO_POO&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;exercicios_herança_DIO_POO&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=exercicios_herança_DIO_POO" name="exercicios_heranca_DIO_POO" references="true" stamp="1643036189175" version="1.0"/>
+</session>
